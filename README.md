@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 🔭 I’m currently student <br>🌱 I’m currently learning Data science<br>💬 Ask me about Data Science<br>⚡ Fun fact: I am smart and sincere
 
