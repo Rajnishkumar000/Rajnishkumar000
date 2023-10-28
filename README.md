@@ -10,11 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rajnishkumar000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajnishkumar000&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnishkumar000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnishkumar000&radius=15&hide_border=true&theme=dracula"  width="95%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnishkumar000&radius=15&hide_border=true&theme=dracula" width="70%">
+    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=Rajnishkumar000&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="26%"/>
 </div>
 
 ## 🏆 GitHub Trophies
