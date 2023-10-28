@@ -11,15 +11,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rajnishkumar000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajnishkumar000&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnishkumar000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajnishkumar000&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnishkumar000&radius=15&hide_border=true&theme=dracula"  width="95%">
 </div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajnishkumar000&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rajnishkumar000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
