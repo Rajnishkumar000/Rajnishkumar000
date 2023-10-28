@@ -14,15 +14,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajnishkumar000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnishkumar000&radius=15&hide_border=true&theme=dracula"  width="95%">
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajnishkumar000&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 
 
-<div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnishkumar000&radius=15&hide_border=true&theme=dracula"  width="70%">
-</div>
+
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
