@@ -18,7 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajnishkumar000&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <div>
@@ -26,6 +25,7 @@
 </div>
 
 ---
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Visitors 👀
 ![Visitor Count](https://profile-counter.glitch.me/Rajnishkumar000/count.svg) 
